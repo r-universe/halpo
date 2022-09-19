@@ -1,9 +1,5 @@
 [
   {
-    "package": "dostats",
-    "oncran": true
-  },
-  {
     "package": "orthogonalsplinebasis",
     "oncran": true
   }
