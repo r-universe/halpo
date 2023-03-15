@@ -4,7 +4,19 @@
     "oncran": true
   },
   {
+    "package": "dostats",
+    "oncran": true
+  },
+  {
     "package": "orthogonalsplinebasis",
+    "oncran": true
+  },
+  {
+    "package": "orthogonalsplinebasis",
+    "oncran": true
+  },
+  {
+    "package": "wingui",
     "oncran": true
   }
 ]

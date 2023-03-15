@@ -13,3 +13,8 @@
 	url = https://github.com/halpo/obsplines
 	shallow = true
 	registered = true
+[submodule "wingui"]
+	path = wingui
+	url = https://github.com/halpo/wingui
+	shallow = true
+	registered = true
