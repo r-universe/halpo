@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dostats"]
 	path = dostats
 	url = https://github.com/halpo/dostats
-	shallow = true
-	registered = true
 [submodule "orthogonalsplinebasis"]
 	path = orthogonalsplinebasis
 	url = https://github.com/halpo/obsplines
-	shallow = true
-	registered = true
 [submodule "wingui"]
 	path = wingui
 	url = https://github.com/halpo/wingui
-	shallow = true
-	registered = true
