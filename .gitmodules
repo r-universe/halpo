@@ -8,6 +8,3 @@
 [submodule "orthogonalsplinebasis"]
 	path = orthogonalsplinebasis
 	url = https://github.com/halpo/obsplines
-[submodule "wingui"]
-	path = wingui
-	url = https://github.com/halpo/wingui
